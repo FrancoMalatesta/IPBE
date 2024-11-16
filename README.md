@@ -1,3 +1,9 @@
+The IPBE program calculates the thermodynamic properties of electrolyte solutions using a numerical solution to the complete Poisson-Boltzmann equation.
+
+
+The IPBE software models the behavior of electrolytes by computing theoretical activity coefficients, osmotic coefficients, and molar volumes and enthalpies using a physically consistent approach based on the Poisson-Boltzmann equation. It extends traditional Debye-Hückel theory by numerically solving the complete equation, providing accurate predictions for high-charge systems and complex mixtures. User input is handled through a textual guided interface for defining solute properties and conditions, enabling precise thermodynamic computations.
+
+
 The IPBE.exe executable runs only on Windows systems. The checksum for the valid file is provided below:
 
 Name: ipbe.exe
