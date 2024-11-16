@@ -27,3 +27,4 @@ Please verify these values before executing the file. When running the file for 
 This action will allow IPBE.exe to execute on your system. Please ensure you trust the source of the file before proceeding.
 
 
+Note: Calculations on modern computers are so fast that the console window may close immediately after the final input is entered; this is not an indication of malfunction. The results are stored in a text file named IPBEOUT (without an extension), which will overwrite any previous output. It is recommended to rename the file to something meaningful before performing another calculation with different parameters.
